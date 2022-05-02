@@ -10,18 +10,7 @@ header{
   text-align: center;
   height: 60px;
 }
-#logo{
-  float: left;
-  padding: none;
-  margin: none;
-  
-}
 
-#logo img{
-  
-  float: left;
-  padding: 10px 0px;
-}   
 #menu{
   float: right;
 
