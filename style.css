@@ -11,6 +11,11 @@ h1{
   -moz-animation: glow 1s ease-in-out infinite alternate;
   animation: glow 1s ease-in-out infinite alternate;
 }
+.header {
+  overflow: hidden;
+  background-color: #f1f1f1;
+  padding: 20px 10px;
+}
 @-webkit-keyframes glow {
   from {
     text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px  #d3041c , 0 0 40px  #d3041c , 0 0 50px  #d3041c , 0 0 60px  #d3041c , 0 0 70px  #d3041c ;
