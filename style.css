@@ -12,13 +12,15 @@ header{
 }
 #logo{
   float: left;
+  padding: none;
+  
   
 }
 
 #logo img{
   
   float: left;
- 
+  padding: 10px 0px;
 }   
 #menu{
   float: right;
