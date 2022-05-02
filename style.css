@@ -10,7 +10,16 @@ header{
   text-align: center;
   height: 60px;
 }
+#logo{
+  float: left;
+  
+}
 
+#logo img{
+  
+  float: left;
+ 
+}   
 #menu{
   float: right;
 
