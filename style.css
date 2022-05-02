@@ -14,8 +14,7 @@ header{
   float: left;
   padding: none;
   margin: none;
-  height: 60px;
-  width: 30%;
+  
 }
 
 #logo img{
@@ -25,8 +24,7 @@ header{
 }   
 #menu{
   float: right;
-  width: 70%;
-  height: 100%;
+
   margin: none;
 }
    
