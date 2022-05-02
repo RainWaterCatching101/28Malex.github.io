@@ -16,9 +16,10 @@ header{
 #logo{
   float: left;
   padding: none;
-  margin: none;
+  margin-top: 200px;
   height: 100px;
   width: 100px;
+
 }
 
 #logo img{
